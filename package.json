@@ -1,0 +1,11 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "15.4.2",
+    "react-dom": "15.4.2"
+  }
+}
